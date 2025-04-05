@@ -1,5 +1,0 @@
-temp/test
-temp/train
-temp/dataset_dogs_vs_cats
-temp/final_model.h5
-__pycache__/
